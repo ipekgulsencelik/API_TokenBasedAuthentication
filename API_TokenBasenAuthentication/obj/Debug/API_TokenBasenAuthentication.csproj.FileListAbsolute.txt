@@ -1,0 +1,166 @@
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\API_TokenBasenAuthentication.dll.config
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\API_TokenBasenAuthentication.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\API_TokenBasenAuthentication.pdb
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csc.exe
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csc.exe.config
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csc.rsp
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csi.exe
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csi.exe.config
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csi.rsp
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.AppContext.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Console.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Net.Http.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\vbc.exe
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\vbc.exe.config
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\vbc.rsp
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Cors.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Owin.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Net.Http.Formatting.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Cors.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Cors.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Owin.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.WebHost.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Cors.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Cors.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Owin.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Net.Http.Formatting.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.WebHost.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.csprojAssemblyReference.cache
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.csproj.CopyComplete
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.dll
+C:\Users\karta\source\repos\YMS5474\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.pdb
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\API_TokenBasenAuthentication.dll.config
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\API_TokenBasenAuthentication.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\API_TokenBasenAuthentication.pdb
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csc.exe
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csc.exe.config
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csc.rsp
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csi.exe
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csi.exe.config
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\csi.rsp
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.AppContext.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Console.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Net.Http.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\vbc.exe
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\vbc.exe.config
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\vbc.rsp
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Cors.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Owin.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Net.Http.Formatting.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Cors.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Cors.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Owin.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.WebHost.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Cors.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Cors.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.Owin.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Net.Http.Formatting.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\System.Web.Http.WebHost.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.csprojAssemblyReference.cache
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.csproj.CopyComplete
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.dll
+C:\Users\İpek Gülşen Çelik\Desktop\Bilge Adam\.Net\Web API\API_TokenBasenAuthentication\API_TokenBasenAuthentication\obj\Debug\API_TokenBasenAuthentication.pdb

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <button id="btnLogin">Login Ol</button>
+
+    <button id="btn">Access Token Getir</button>
+</body>
+</html>
+
+<script>
+    var accessToken = "";
+
+    $("#btnLogin").click(function () {
+
+        var User = new Object();
+        User.grant_type = "password";
+        User.UserName = "test";
+        User.Password = "123";
+
+        $.ajax({
+            url: "https://localhost:44361/token",
+            type: "POST",
+            dataType: "JSON",
+            data: User,
+            success: function (result) {
+                accessToken = result.access_token;
+                console.log(result);
+            }
+        });
+    });
+
+    $("#btn").click(function () {
+        alert(accessToken);
+
+        $.ajax({
+            url: "https://localhost:44361/api/Test",
+            beforeSend: function (xhr) { xhr.setRequestHeader('Authorization', 'Bearer ' + accessToken); },
+            type: "GET",
+            dataType: "JSON",
+            success: function (response) {
+                console.log(response);
+            }
+        });
+    });
+</script>
